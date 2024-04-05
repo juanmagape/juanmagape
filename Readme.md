@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<div align="center">
+  <h3 >A passionate frontend developer from Spain</h3>
 
 - 📫 How to reach me **juanmagalan2007@gmail.com**
 
@@ -22,4 +23,10 @@
 
 <h5>Frameworks</h5>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='react' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB&color=61DAFB'/></a>
-<a href='https://github.com/juanmagape' target="_blank"><img alt='astro' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=BC52EE&color=BC52EE'/></a>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='astro' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=BC52EE&color=BC52EE'/></a>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='tailwind css' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=tailwind css&logoColor=FFFFFF&labelColor=06B6D4&color=06B6D4'/></a>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=7952B3&color=7952B3'/></a>
+
+<h5>Software</h5>
+</div>
+
