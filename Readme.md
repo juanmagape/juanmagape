@@ -2,6 +2,8 @@
 
 - 📫 How to reach me **juanmagalan2007@gmail.com**
 
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/juanmagape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juanmagape" height="30" width="40" /></a>
