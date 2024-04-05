@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML%2C%20orange)
 
 <h1>My skills</h1>
-<h5 align="left">Programming languages</h5>
+<h5>Programming languages</h5>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=FFA200&color=FFA200'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='css3' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=1572B6&color=1572B6'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E'/></a>
@@ -28,5 +28,10 @@
 <a href='https://github.com/juanmagape' target="_blank"><img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=7952B3&color=7952B3'/></a>
 
 <h5>Software</h5>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='linux' src='https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624&color=FCC624'/></a>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='windows' src='https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=0078D4&color=0078D4'/></a>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=F05032&color=F05032'/></a>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=181717&color=181717'/></a>
+
 </div>
 
