@@ -1,5 +1,6 @@
 <div align="center">
-  <h3 >A passionate frontend developer from Spain</h3>
+  <p>Hey, I'm</p>
+  <h3 color="#00ccff">Juan Manuel Galán Pérez</h3>
 
 - 📫 How to reach me **juanmagalan2007@gmail.com**
 
