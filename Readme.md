@@ -1,16 +1,7 @@
 <div align="center">
-  <p>Hey, I'm</p>
-  <h3 color="blue">Juan Manuel Galán Pérez</h3>
+  <p>👋Hey, I'm</p>
+  <h3>Juan Manuel Galán Pérez</h3>
 
-- 📫 How to reach me **juanmagalan2007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/juanmagape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juanmagape" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juanmagape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanmagape" height="30" width="40" /></a>
-</p>
-
-![Static Badge](https://img.shields.io/badge/HTML%2C%20orange)
 
 <h1>My skills</h1>
 <h5>Programming languages</h5>
@@ -40,5 +31,8 @@
 <a href='https://github.com/juanmagape' target="_blank"><img alt='microsoftexcel' src='https://img.shields.io/badge/microsoft_excel-100000?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&labelColor=217346&color=217346'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='microsoftoutlook' src='https://img.shields.io/badge/microsoft_outlook-100000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF&labelColor=0078D4&color=0078D4'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='microsoftpowerpoint' src='https://img.shields.io/badge/microsoft_powerpoint-100000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FFFFFF&labelColor=B7472A&color=B7472A'/></a>
+
+<h5>Connect with me</h5>
+- 📫 How to reach me <a href='www.linkedin.com/in/juanma-gape' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335&color=EA4335'/></a> or you can go to my <a href='www.linkedin.com/in/juanma-gape' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a>
 </div>
 
