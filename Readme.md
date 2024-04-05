@@ -1,6 +1,6 @@
 <div align="center">
-  <p>👋Hey, I'm</p>
-  <h3>Juan Manuel Galán Pérez</h3>
+  <h3>👋Hey, I'm</h3>
+  <h1>Juan Manuel Galán Pérez</h1>
 
 
 <h1>My skills</h1>
@@ -32,7 +32,8 @@
 <a href='https://github.com/juanmagape' target="_blank"><img alt='microsoftoutlook' src='https://img.shields.io/badge/microsoft_outlook-100000?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF&labelColor=0078D4&color=0078D4'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='microsoftpowerpoint' src='https://img.shields.io/badge/microsoft_powerpoint-100000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FFFFFF&labelColor=B7472A&color=B7472A'/></a>
 
-<h5>Connect with me</h5>
-- 📫 How to reach me <a href='www.linkedin.com/in/juanma-gape' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335&color=EA4335'/></a> or you can go to my <a href='www.linkedin.com/in/juanma-gape' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a>
+<h1>Connect with me</h1>
+<a href='www.linkedin.com/in/juanma-gape' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335&color=EA4335'/></a>
+<a href='www.linkedin.com/in/juanma-gape' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a>
 </div>
 
