@@ -1,6 +1,6 @@
 <div align="center">
   <p>Hey, I'm</p>
-  <h3 color="#00ccff">Juan Manuel Galán Pérez</h3>
+  <h3 color="blue">Juan Manuel Galán Pérez</h3>
 
 - 📫 How to reach me **juanmagalan2007@gmail.com**
 
