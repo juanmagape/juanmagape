@@ -3,8 +3,8 @@
   <h1>👨Juan Manuel Galán Pérez</h1>
 
 
-<h1>💻My skills</h1>
-<h3>Programming languages</h3>
+<h1>🎈My skills</h1>
+<h3>💻Programming languages</h3>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26&color=E34F26'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='css3' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=1572B6&color=1572B6'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E'/></a>
