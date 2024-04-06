@@ -34,6 +34,6 @@
 
 <h1>📨Connect with me</h1>
 <a href='mailto:juanmagalan2007@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335&color=EA4335'/></a>
-<a href='www.linkedin.com/in/juanma-gape' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='https://www.linkedin.com/in/juanma-gape?original_referer=' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a>
 </div>
 
