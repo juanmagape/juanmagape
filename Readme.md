@@ -12,9 +12,8 @@
 <a href='https://github.com/juanmagape' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=777BB4&color=777BB4'/></a>
 
 <h3>⌨️Frameworks</h3>
-<a href='https://github.com/juanmagape' target="_blank"><img alt='react' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB&color=61DAFB'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='astro' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=BC52EE&color=BC52EE'/></a>
-<a href='https://github.com/juanmagape' target="_blank"><img alt='tailwind css' src='https://img.shields.io/badge/Astro-100000?style=for-the-badge&logo=tailwind css&logoColor=FFFFFF&labelColor=06B6D4&color=06B6D4'/></a>
+<a href='https://github.com/juanmagape' target="_blank"><img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwind-100000?style=for-the-badge&logo=Tailwind CSS&logoColor=white&labelColor=06B6D4&color=06B6D4'/></a>
 <a href='https://github.com/juanmagape' target="_blank"><img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=7952B3&color=7952B3'/></a>
 
 <h3>⚙️Software</h3>
