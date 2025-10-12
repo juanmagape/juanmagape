@@ -1,16 +1,16 @@
 <div align="center">
-  <h3>👋Hey, I'm</h3>
-  <h1>👨Juan Manuel Galán Pérez</h1>
+  <h4>👋Hey, I'm</h4>
+  <h2>👨Juan Manuel Galán Pérez</h2>
 
 
-<h1>🎈My skills</h1>
+<h3>💻 Main stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,html,css,tailwind,mysql,astro" />
   </a>
 </p>
 
-<h2>other skills</h2>
+<p>I also work with</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,4 +18,10 @@
   </a>
 </p>
 
+<h3>Check my socials</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanma-gape/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
