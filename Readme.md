@@ -6,7 +6,7 @@
 <h3>💻 Main stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,html,css,tailwind,mysql,astro" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,tailwind,mysql,astro,git" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,figma,wordpress,github" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,figma,wordpress,github,aws" />
   </a>
 </p>
 
@@ -25,3 +25,4 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
