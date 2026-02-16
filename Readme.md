@@ -15,6 +15,7 @@
 ## Current projects
 
 - **[Portal del empleado](https://github.com/juanmagape/portal-del-empleado)** - RRHA central hub for employees to handle HR docs and requests
+- **[Valorant Esports](https://valo-esports.vercel.app/)** - A web application to track competitive Valorant teams, rosters, recent results, and upcoming matches using real-time data.
 - **[PokeApi](https://poke-api-juanmagape.vercel.app/)** - App to browse Pokémon stats and abilities using the PokéAPI
 - **[TechSolve](https://techsolve.vercel.app/)** - A mock PC repair shop website. Browse components, peripherals, and check the troubleshooting guide for common tech headaches
 - **[TicketFlow](https://ticket-system-juanmagape.vercel.app/)** - A webpage to track, assign, and resolve support tickets easily
