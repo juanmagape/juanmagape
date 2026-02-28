@@ -27,6 +27,9 @@
 - **[RPG Game](https://github.com/juanmagape/rpg_game.git)** - A turn-based CLI game. Choose from 5 classes (like Alchemist or Magic Warrior), fight enemies like Slimes and Ogres, and spend your loot at the tavern.
 - **[Todo List](https://github.com/juanmagape/crud-java.git)** - A persistent Java console tool. It uses CSV files to save your data, allowing you to add, edit, and track tasks without losing progress.
 - **[Tamagotchi](https://github.com/juanmagape/tamagotchi.git)** - Recreation of the famous virtual pet simulator
+- **[Basic Calculator](https://github.com/juanmagape/calculadorabasicajs)** - A simple and functional web-based calculator built with JavaScript to handle basic arithmetic operations.
+- **[Basic Todo List](https://github.com/juanmagape/todolistbasicojs)** - A minimalist task management application using JavaScript to easily add, track, and manage your daily goals.
+- **[PC Setup Scripts](https://github.com/juanmagape/scriptsconfig)** - A collection of personal automation scripts to quickly set up a new PC and install essential everyday apps like VSCode, Bitwarden, and Discord.
 
 ## Connect
 
