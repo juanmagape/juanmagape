@@ -14,6 +14,7 @@
 
 ## Current projects
 
+- **[Expenses control app](https://github.com/juanmagape/expenses-control-app)** - A web app to easily track your daily expenses, monitor your incomes, and analyze your financial habits locally.
 - **[Portal del empleado](https://github.com/juanmagape/portal-del-empleado)** - RRHA central hub for employees to handle HR docs and requests
 - **[Valorant Esports](https://valo-esports.vercel.app/)** - A web application to track competitive Valorant teams, rosters, recent results, and upcoming matches using real-time data.
 - **[PokeApi](https://poke-api-juanmagape.vercel.app/)** - App to browse Pokémon stats and abilities using the PokéAPI
